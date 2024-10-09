@@ -1,5 +1,5 @@
 # 🌍 Halo - Earthquake Detection Using Seismology Data 🚨
-<img src="assets/vid.gif" width="600" height="400" />
+<img src="assets/vid.gif" width="800" height="450" />
 
 Halo is a seismology project developed for Spaceapps Bahrain, aimed at detecting the precise time at which earthquakes occur. By analysing velocity data from 24-hour recordings and splitting it into manageable chunks, Halo pinpoints the earthquake occurrence by comparing variances and identifying the chunk with the smallest difference. 📊
 
